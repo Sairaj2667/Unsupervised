@@ -166,6 +166,8 @@ A higher score generally indicates better-defined clusters.
 * Create interactive visualizations.
 * Apply the techniques to larger real-world datasets.
 
+* For Problem Statement Click On 1.pdf In Repo.
+  
 ## 👨‍💻 Author
 
 **Sairaj Kore**
